@@ -1,3 +1,4 @@
+**HOW TO RUN:**
 pipeline_sim.py — the pipeline simulation logic
 app.py — Flask server that runs the simulation and sends results to the browser
 templates/visualizer.html — the webpage that displays the results
